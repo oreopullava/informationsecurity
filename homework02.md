@@ -31,8 +31,16 @@ Indicators:
 - track defensive performance with metrics, showing how defenses react to multiple intrusion attempts
 - Defensive Adaptation, continuously update and layer defenses
 
-  <h4>Intrusion Reconstruction</h4>
+ 
+  - Kill chain analysis is a guide for analysts to understand what information is
+  - To mitigate future attacks, defenders must analyze and understand all phases not just the current one
+  - Analyzing multiple intrusion kill chains over time helps spot shared indicators and patterns
+  - By understanding repeated tactics defenders can reduce the likelihood of successful attacks over time.
+    
   
+
+
+
 
 
 
