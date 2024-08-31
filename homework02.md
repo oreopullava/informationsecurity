@@ -1,5 +1,38 @@
 <h1>Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains</h1>
 
+- traditional methods address only known vulnerabilities and reacts only after attack -> not really affective against ATPs
+- ATPs =  Advanced Persistent Threats
+- ATPs are highly skilled attackers that attacks sensitive information 
+- using kill chain model to anticipate, detect, and disrupt 
+
+- military operations (find, fix, track, target, engage, assess)
+- models are adapted in information security, such as the ABSAC framework, which aligns countermeasures to attack phases
+- exploitation life cycle” focuses on post-compromise actions but is lacking early defensive strategies, that are crucial when thinking about ATPs
+
+- Intelligence-Driven CND focuses on understanding attackers and their behavior to create a defense. Viewed as a series of phases, and disrupting any phase in the "kill chain" can stop the attacker.
+Indicators:
+- Atomic: basic details like IP addresses
+- Computed: Data derived from incidents
+- Behavioral: Patterns combining different clues
+-  Indicators are constantly analyzed and updated to improve defense
+
+  <h4>Intrusion kill chain</h4>
+1. Reconnaissance: Attacker gathers info on targets
+2. Weaponization: Prepares the attack (creating malware)
+3. Delivery: Sends the attack (email, website, USB)
+4. Exploitation: Attack is triggered (exploits a vulnerability)
+5. Installation: Installs malware to maintain access
+6. Command and Control: Attacker gains control of the system
+7. Actions on Objectives: Attacker achieves their goals
+
+- intrusion kill chain helps defenders create actionable intelligence by matching their security measures with the steps attackers use to target their organization.
+- course of action matrix utilize actions like detect, deny, disrupt, degrade, deceive, and destroy from DoD doctrine to address different phases of an attack, incorporating tools like HIDS, NIDS, and firewall ACLs
+- Defender Resiliency focuses on building resiliency by using available indicators to force adversaries to make adjustments, rather than solely focusing on zero-day exploits
+- track defensive performance with metrics, showing how defenses react to multiple intrusion attempts
+- Defensive Adaptation, continuously update and layer defenses
+
+  <h4>Intrusion Reconstruction</h4>
+  
 
 
 
@@ -7,7 +40,7 @@
 
 
 
-<h1>Installing debian</h1>
+<h1>Installing Debian</h1>
 
 First step was to install current Debian ISO image. I found them in https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/
 After I found the correct one I started the downloading.
