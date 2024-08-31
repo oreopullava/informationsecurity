@@ -52,30 +52,35 @@ this should be the outcome:
 
 
 Then I booted the machine
-
-
-
-
 <img width="331" alt="image" src="https://github.com/user-attachments/assets/cee4fc8e-471b-4ac0-8405-dc60b551f4be">
-
-
 <img width="401" alt="image" src="https://github.com/user-attachments/assets/211f1468-83e1-4db8-925c-7967e809865d">
 
 
 
 For me to test mouse, keyboard, network and display I opened Firefox 
-
-
-
-
-
-
-
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/2fbcb063-52c6-4af9-a7cb-6d9ceb9e89c4">
 
+<h3>Running the installer</h3>
+
+In the desktop there was "Install Debian" that I clicked. For me to install it I had to go through these steps first:
+1. Change the language to American English
+2. Set my location to Finland
+3. Choose the keyboard (Finnish)
+4. Erase disk
+5. Did not encrypt
+6. Fill in user info, my name, log in name, naming computer and set a strong password
+7. Then clicked install
 
 
+   <img width="398" alt="image" src="https://github.com/user-attachments/assets/6a5c8498-b324-4218-8399-503302a2d187">
 
 
+   Then it rebooted and I was greeted with log in screen. In the steps before I had to create log in name and password so they were the ones I used for log in. After I was in I opened the Firefox to test everything works just fine. Then I opened Applications: Terminal Emulator. I wrote the command "sudo apt-get update" to update and then put another command "sudo apt-get -y dist-upgrade" for it to upgrade everything. It took a few minutes. Here is photo below of the upgrade process:
+
+   <img width="398" alt="image" src="https://github.com/user-attachments/assets/87f6be45-2d57-44f5-967c-7ccdf94a6ca5">
+
+
+Then I had to install a firewall and turn it on with these commands "sudo apt-get -y install ufw" "sudo ufw enable"
+Now we had to restart and log in again, and we were all set!
 
 
