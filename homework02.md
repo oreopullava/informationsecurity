@@ -1,4 +1,5 @@
 <h1>Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains</h1>
+https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf
 
 - traditional methods address only known vulnerabilities and reacts only after attack -> not really affective against ATPs
 - ATPs =  Advanced Persistent Threats
@@ -41,7 +42,16 @@ Indicators:
 
 
 
-
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
 
 
 
