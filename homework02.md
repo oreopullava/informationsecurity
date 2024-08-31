@@ -44,11 +44,18 @@ Now that I had my Virtual Machine created I had to insert my Debian ISO image th
 
 
 this should be the outcome:
+
+
+
 <img width="671" alt="image" src="https://github.com/user-attachments/assets/a75af958-bb87-44a0-a2e1-6953e380a503">
 
 
 
 Then I booted the machine
+
+
+
+
 <img width="331" alt="image" src="https://github.com/user-attachments/assets/cee4fc8e-471b-4ac0-8405-dc60b551f4be">
 
 
@@ -57,6 +64,13 @@ Then I booted the machine
 
 
 For me to test mouse, keyboard, network and display I opened Firefox 
+
+
+
+
+
+
+
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/2fbcb063-52c6-4af9-a7cb-6d9ceb9e89c4">
 
 
