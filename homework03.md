@@ -37,5 +37,7 @@ Open ports are:
 25/tcp smtp = simple mail transform
 631/tcp ipp = is used for the Internet Printing Protocol, network printing protocol that allows clients to communicate with printers over the internet or a local network.
 
+<h2> d) </h2>
+<img width="335" alt="image" src="https://github.com/user-attachments/assets/26131014-9b0d-4218-9a56-87da50cc6d74">
 
-
+As a new one we got port 80, that is the default port used by the HTTP protocol for web traffic. So before installing the web server it was closed because no server was listening to it.
