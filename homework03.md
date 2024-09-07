@@ -1,3 +1,39 @@
+<h2> x) </h2>
+https://www.youtube.com/watch?v=Nh7OrFVyDo0
+<h3> [D24] I Was Almost a Cybercriminal - Sergey Ichtchenko </h3>
+
+<h5>Intro</h5>
+- Testausserveri is organization that wants to give a community to ethical hacking
+- Most of the reasons that got people into programming/hacking were family, curiosity or gaming
+- Stereotype for coders are "nerdy" or people who don't go out or don't have friends, when in reality they can look like anything
+
+<h5>Why do some young people misbehave online or commit cybercrime?</h5>
+- Pressure of other people -> bad influence
+- Honour among criminals
+- it's forbidden so it's more fun...
+- Bullying
+- Getting free stuff from it
+
+<h5> Personal Story </h5>
+- Found vulnerability on linnanmäki app where you could get your pass with code
+- with very simple change to JS code got a free ticket basically
+- Reported the vulnerability to Linnanmäki
+- Got thanked by company and rewarded
+- The issue got fixed
+
+<h5> Interventions </h5>
+- If there isn't good feedback or rewards for helping it can lead to cybercriminality
+- Parents need to see their childs unique skill, but it needs to be legal
+- A lot of learning resources for hacking like youtube, tryhackme and hakatemia.fi
+
+
+
+
+
+
+
+
+
 <h2> a) </h2>
 I actually didn't have SSH server installed so I had to do that first...
 
