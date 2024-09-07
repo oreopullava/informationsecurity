@@ -31,20 +31,20 @@ https://www.youtube.com/watch?v=Nh7OrFVyDo0
 
 <h2> Command Line Basics Revisited </h2>
 
-pwd: prints the working directory.
-ls: Lists files in working directory.
-cd ..: change the directory up.
+- pwd: prints the working directory.
+- ls: Lists files in working directory.
+- cd ..: change the directory up.
 
 <h3> File Manipulation </h3>
-nano: Text editor.
-mkdir: makes a new directory.
-mv: Move or rename a file.
-cp: copy original
-rmdir: Remove an empty directory.
-rm: Remove a file.
-rm -r: Remove a folder and its contents.
-
-Others I pretty much learned doing the OverTheWire tasks since I started from them!
+- nano: Text editor.
+- mkdir: makes a new directory.
+- mv: Move or rename a file.
+- cp: copy original
+- rmdir: Remove an empty directory.
+- rm: Remove a file.
+- rm -r: Remove a folder and its contents.
+- Run apt-get update before giving other apt commands.
+- 
 
 
 
