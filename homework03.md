@@ -1,4 +1,4 @@
-
+<h2> a) </h2>
 I actually didn't have SSH server installed so I had to do that first...
 
 Task 0
@@ -22,4 +22,8 @@ Task 2 -> 3
 Task 3-> 4 
 
 <img width="263" alt="image" src="https://github.com/user-attachments/assets/b9411c8f-32f1-4db4-bc08-186db1529c0f">
+
+
+<h2> b) </h2>
+<img width="205" alt="image" src="https://github.com/user-attachments/assets/3653dfcc-9f3a-49d4-8df9-9c81d47a0055">
 
