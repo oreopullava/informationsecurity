@@ -27,3 +27,15 @@ Task 3-> 4
 <h2> b) </h2>
 <img width="205" alt="image" src="https://github.com/user-attachments/assets/3653dfcc-9f3a-49d4-8df9-9c81d47a0055">
 
+
+<h2> c) </h2>
+<img width="344" alt="image" src="https://github.com/user-attachments/assets/ee945eaf-9d35-43b2-9619-05ea9b9805d7">
+
+There is 997 closed ports
+Open ports are:
+22/tcp ssh = used for secure login
+25/tcp smtp = simple mail transform
+631/tcp ipp = is used for the Internet Printing Protocol, network printing protocol that allows clients to communicate with printers over the internet or a local network.
+
+
+
