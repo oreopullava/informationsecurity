@@ -38,7 +38,26 @@ c) updating everything
 <img width="397" alt="image" src="https://github.com/user-attachments/assets/3c0ae38c-8d0a-4957-9d0a-2be2da6aa1ff">
 
 
-d) 
+<h3>d)</h3>
+<h4>0 SELECT BASICS</h4>
+1.
+<img width="539" alt="image" src="https://github.com/user-attachments/assets/6e90d076-e0e5-4742-9c86-4827aaea5051">
+
+2.  <img width="501" alt="image" src="https://github.com/user-attachments/assets/0e0fd0a0-6cef-4ba1-89f4-21769995032a">
+
+
+3. <img width="537" alt="image" src="https://github.com/user-attachments/assets/a5690872-d526-4883-908f-046e0f56f345">
+
+
+<h4>2 SELECT FROM WORLD</h4>
+
+1. <img width="615" alt="image" src="https://github.com/user-attachments/assets/4eb42592-bb00-4e19-806f-409bd852b80e">
+
+2. <img width="533" alt="image" src="https://github.com/user-attachments/assets/42a1b179-ea17-4293-9c62-1da04b54b74d">
+
+
+
+
 
 
 
