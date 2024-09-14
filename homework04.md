@@ -25,3 +25,8 @@ https://owasp.org/Top10/A03_2021-Injection/
 Vulnerabilities: Applications can be attacked if they don't properly check or clean user data. This happens when unsafe queries or commands are used, allowing harmful data to interfere with the system. Common types of these attacks include SQL, NoSQL, and command injections.
 
 Prevention: To prevent this, use safe APIs or tools like ORM to handle queries, validate user input on the server, escape special characters in queries, and add limits to SQL queries to prevent large-scale data leaks.
+
+a) <img width="406" alt="image" src="https://github.com/user-attachments/assets/4610a00f-ebcb-4344-b394-87481511d311">
+
+even when trying different ports, it won't open any other than 8080
+
