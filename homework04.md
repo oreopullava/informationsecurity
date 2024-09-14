@@ -30,3 +30,9 @@ a) <img width="406" alt="image" src="https://github.com/user-attachments/assets/
 
 even when trying different ports, it won't open any other than 8080
 
+b)
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/0d26471d-77fb-4038-abc9-3a07cf783d3b">
+<img width="630" alt="image" src="https://github.com/user-attachments/assets/c5888752-8de0-41fa-a22c-ff05d3b01eee">
+
+
+
