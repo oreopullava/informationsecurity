@@ -18,3 +18,5 @@ https://terokarvinen.com/2023/pgp-encrypt-sign-verify/
 - By changing keys they establish trust between parties
 - creating keypair by "$ gpg --gen-key"
 - for sending a message to another person youu need to have their public key
+- export, import, verify, trust
+- decryption happens with secret key
