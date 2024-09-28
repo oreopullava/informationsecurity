@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 <h1>a)</h1>
 To install Hashcat I used https://terokarvinen.com/2022/cracking-passwords-with-hashcat/ for instructions
 
