@@ -1,6 +1,19 @@
+<h1>x)</h1>
 
+<h4>2.3 One-way functions</h4>
+- Not protocols theselves but fundamental block for most
+- easy to compute but hard to reverse
+- a trapdoor oneway-function has a secret backdoor that makes reversing easier
 
-
+<h4>2.4 One-way hash functions</h4>
+- many names: compression function, contraction function, message digest, fingerprint, cryptographic checksum, message integrity check (MIC), and manipulation detection code (MDC)
+- bulding block for many protocols
+-  variable-length input string (a pre-image)
+- takes pre-image that returns bytes
+- produce a value that indicates whether a candidate pre-image is likely to be the same as the real one
+- it is hard to generate pre-image that hashes to a particular value
+- hash function is public 
+-A message authentication code is a one-way function with a secret key
 
 
 
