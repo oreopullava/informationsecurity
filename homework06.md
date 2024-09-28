@@ -67,19 +67,19 @@ Then we got the right password!
 To crack this hash I jsut used the same steps as in the a) exercise from 4-6, then I got it easily cracked!
 
 
-<img width="389" alt="image" src="https://github.com/user-attachments/assets/0a7962ea-4e64-4f2a-bcac-2429f4bef8d0">
+<br> <img width="389" alt="image" src="https://github.com/user-attachments/assets/0a7962ea-4e64-4f2a-bcac-2429f4bef8d0">
+</br>
 
 
 
 
-
+<br>
 <img width="402" alt="image" src="https://github.com/user-attachments/assets/d05dea97-fcaa-4a84-ba39-a60e4819c619">
+</br>
 
 
-
-
-
+<br>
 <img width="227" alt="image" src="https://github.com/user-attachments/assets/e1936dc9-fe29-403d-8945-9e251cca6287">
-
+</br>
 
 
