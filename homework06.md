@@ -45,8 +45,8 @@ $ cd hashed
 
 We need dictionary since we want our computer to try to find match for our hash. So I downloaded the dictionary. I used Rockyou.
 
-$ wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
-$ tar xf rockyou.txt.tar.gz
+$ wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz <br>
+$ tar xf rockyou.txt.tar.gz <br>
 $ rm rockyou.txt.tar.gz
 
 
@@ -77,7 +77,7 @@ Then we got the right password!
 
 <h1>b)</h1>
 
-To crack this hash I jsut used the same steps as in the a) exercise from 4-6, then I got it easily cracked!
+To crack this hash I just used the same steps as in the a) exercise from 4-6, then I got it easily cracked!
 
 
 <br> <img width="389" alt="image" src="https://github.com/user-attachments/assets/0a7962ea-4e64-4f2a-bcac-2429f4bef8d0">
