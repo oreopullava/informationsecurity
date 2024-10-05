@@ -20,7 +20,7 @@ We used "ahmia" in the class so I decided to use that too as an example
 <img width="414" alt="image" src="https://github.com/user-attachments/assets/d653136d-bb68-4113-ae37-15a0e8288b00">
 <br>
 
-Another one I found was DuckDuckGo
+Another found was DuckDuckGo, that is default browser
 <br>
 <img width="502" alt="image" src="https://github.com/user-attachments/assets/55c61961-6e91-43e6-a234-66eef2bd83ec">
 <br>
@@ -40,7 +40,22 @@ Everything you want to buy from the site you need to use crypto. There were thre
 
 <h4>Forum</h4>
 
-
+I found this talking forum where people can start convos and respond
 <br>
 <img width="597" alt="image" src="https://github.com/user-attachments/assets/d658c2f0-e048-4f0d-8298-198842ce2471">
 <br>
+
+
+<h4>Well known organization</h4>   
+<br>
+
+At first I tried United Nations but I got an error when I tried to access the site
+<br>
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/0518c547-bf7a-44dd-8769-54a28a47df7f">
+<br>
+Then I tried Apple, that has head quarters in the USA. That worked
+<br>
+<img width="598" alt="image" src="https://github.com/user-attachments/assets/712c75d1-f9db-4a06-92f4-186010662479">
+
+
+
