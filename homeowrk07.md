@@ -1,3 +1,46 @@
+<h1>x)</h1>
+
+<h4>7 things you should know about Tor</h4>
+https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
+
+- tor provides anonymity
+- not used only by criminals
+- military uses for secure communication
+- families to protect their chlidren
+- protect yourself 
+- no military backdoor
+- easy to use
+- Tor is slower than regular network
+- You can destroy your anonymity if you use Tor incorreclty
+- if you use services that require log in they will see your communication within their system
+- one of the strongest anonymity software to exist
+
+<h4>Chapter 2. The Tor Browser</h4>
+
+<h6>Intro</h6>
+- browser that is modified from fireofox
+- hides IP address
+- anyone can use
+
+<h6>History and Intended Use of The Onion Router</h6>
+- allow anonymous communication
+- allows to connect to websites that may be blocked
+- can be also used for crimes...
+- developed by US government, but not controlled by them presently
+- US governemnent is researching methods to deanonymize users of it
+
+<h6>How the onion router works</h6>
+- directs the route of a user’s Internet traffic through random relays on the Internet
+- data first layered with ellptic curve crpythography
+-  Tor routes a user’s internet traffic through random relays on the internet, making it difficult to trace
+-  As the encrypted data passes through each relay (entry, middle, exit), a layer of encryption is stripped away until it reaches the final destination.
+- The exit relay connects to the user’s target with an unencrypted connection but does not know the full route of the traffic
+-  Tor changes the entry, middle, and exit relays every 10 minutes, further enhancing anonymity and making tracking nearly impossible
+
+<h6>Tracking criminals using tor</h6>
+- government agencies working on deanonymizing to find criminals/terrorists
+- but found ones are more based on the errors of suspects
+- not having federal resources to investigate if alone
 
 <h1>a) installing TOR browser</h1>
 
