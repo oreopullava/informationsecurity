@@ -4,42 +4,66 @@
 https://www.eff.org/deeplinks/2014/07/7-things-you-should-know-about-tor
 
 - tor provides anonymity
-- not used only by criminals
+  <br>
+- not used only by 
+  <br>
 - military uses for secure communication
+  <br>
 - families to protect their chlidren
-- protect yourself 
+    <br>
+- protect yourself
+    <br>
 - no military backdoor
+    <br>
 - easy to use
+    <br>
 - Tor is slower than regular network
+    <br>
 - You can destroy your anonymity if you use Tor incorreclty
+    <br>
 - if you use services that require log in they will see your communication within their system
+    <br>
 - one of the strongest anonymity software to exist
 
 <h4>Chapter 2. The Tor Browser</h4>
 
 <h6>Intro</h6>
 - browser that is modified from fireofox
+  <br>
+
 - hides IP address
+    <br>
 - anyone can use
 
 <h6>History and Intended Use of The Onion Router</h6>
 - allow anonymous communication
+  <br>
 - allows to connect to websites that may be blocked
+  <br>
 - can be also used for crimes...
+  <br>
 - developed by US government, but not controlled by them presently
+  <br>
 - US governemnent is researching methods to deanonymize users of it
 
 <h6>How the onion router works</h6>
 - directs the route of a user’s Internet traffic through random relays on the Internet
+  <br>
 - data first layered with ellptic curve crpythography
+  <br>
 -  Tor routes a user’s internet traffic through random relays on the internet, making it difficult to trace
+  <br>
 -  As the encrypted data passes through each relay (entry, middle, exit), a layer of encryption is stripped away until it reaches the final destination.
+  <br>
 - The exit relay connects to the user’s target with an unencrypted connection but does not know the full route of the traffic
+  <br>
 -  Tor changes the entry, middle, and exit relays every 10 minutes, further enhancing anonymity and making tracking nearly impossible
 
 <h6>Tracking criminals using tor</h6>
 - government agencies working on deanonymizing to find criminals/terrorists
+  <br>
 - but found ones are more based on the errors of suspects
+  <br>
 - not having federal resources to investigate if alone
 
 <h1>a) installing TOR browser</h1>
